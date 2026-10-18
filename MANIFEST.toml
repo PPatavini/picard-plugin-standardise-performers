@@ -1,0 +1,8 @@
+uuid = "b0ce8050-65fc-457c-8fbb-0b8637259a60"
+name = "Standardise Performers (legacy)"
+description = "Splits multi-instrument performer tags into one tag per instrument (e.g. 'guitar and mandolin' -> 'guitar' + 'mandolin') and sorts the performer names alphabetically."
+api = ["3.0"]
+authors = ["local (port of the Picard 2 plugin by Sophist)"]
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-2.0.html"
+categories = ["metadata"]
